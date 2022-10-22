@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * print_diagonal_line - prints a line
+ * print_diagonal - prints a line
  * @n: integer param
  */
-void print_diagonal_line(int n)
+void print_diagonal(int n)
 {
 	int x, i;
 
