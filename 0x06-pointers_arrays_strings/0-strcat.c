@@ -5,7 +5,7 @@
  * @src: copy from
  * Return: pointer to dest
  */
-char *_strcat(char *dest, *src)
+char *_strcat(char *dest, char *src)
 {
 	int i;
 	int j;
